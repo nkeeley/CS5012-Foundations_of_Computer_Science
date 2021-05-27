@@ -47,9 +47,14 @@
 - Summary: group project that required coding a recursive binary search algorithm that determined the closest pair of points within a randomly generated list of points. Edge case involved points grouped around the middle threshold of the graph "mid point."
 - Filetype: .ipynb
 
+## CS5012_HW1_3SEP2020_PDF.pdf (Relations, Functions, and Propositional Logic)
+- Summary: see subject line. Assignment required navigating the logic of relations and sets, presumably in preparation for SQL querying.
+- Filetype: .pdf
 
-## 
-- Summary: 
+## CS5012_Keeley_HW1_11SEP2020.ipynb (Asymptotic Complexity "Big O" Notation)
+- Summary: ran a series of functiosn in Python and assessed complexity in Big O notation.
 - Filetype: .ipynb
-- 
-- 
+
+## Midterm1 _Q11.jpg (Nearest Neighbor Problem with Straight Line Heuristic)
+- Summary: conceptual question on midterm. This was the solution I drew for explaining the Straight Line Heuristic method.
+- Filetype: .jpg
